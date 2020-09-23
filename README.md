@@ -1,6 +1,6 @@
 # docker-rails
 
-##手順
+## 手順
 
 1: docker-compose runでアプリケーションを作成する
 ```
